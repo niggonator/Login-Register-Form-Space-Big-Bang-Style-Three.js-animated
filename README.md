@@ -3,7 +3,7 @@
 ![Login-Register-Form-Space-Big-Bang-Style-Three js-animated](https://github.com/niggonator/Login-Register-Form-Space-Big-Bang-Style-Three.js-animated/assets/167204297/22e821d6-a982-444a-8563-0fef8a3cf889)
 
 ## Getting Started
-Feel free to use and implement my Big Bang Style Register template to spice up your website.
+Feel free to use and implement my Big Bang Style Typewriter Register template to spice up your website.
 
 ## External server
 There is also a script u can use to pass data to an external server. 
@@ -20,7 +20,8 @@ You need:
 For external server functionality:
 1. python3
    -> argparse, paramiko
-   Install via: pip install argparse paramiko
+
+Install via: pip install argparse paramiko
 
 # Copyright
 
