@@ -6,7 +6,9 @@ There is also a script u can use to pass data to an external server.
 To activate, please remove hashtags from "registerscript.php" in line 65/66:
 
 64    // Pass data to external server (optional)
+
 65    //$command = escapeshellcmd("python3 paramiko_script_register.py $user_id $email");
+
 66    //$output = shell_exec($command);
 
 ## Requirements
