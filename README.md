@@ -1,3 +1,7 @@
+# Preview
+
+![Login-Register-Form-Space-Big-Bang-Style-Three js-animated](https://github.com/niggonator/Login-Register-Form-Space-Big-Bang-Style-Three.js-animated/assets/167204297/22e821d6-a982-444a-8563-0fef8a3cf889)
+
 ## Getting Started
 Feel free to use and implement my Big Bang Style Register template to spice up your website.
 
@@ -17,10 +21,6 @@ For external server functionality:
 1. python3
    -> argparse, paramiko
    Install via: pip install argparse paramiko
-
-# Preview
-
-![Login-Register-Form-Space-Big-Bang-Style-Three js-animated](https://github.com/niggonator/Login-Register-Form-Space-Big-Bang-Style-Three.js-animated/assets/167204297/22e821d6-a982-444a-8563-0fef8a3cf889)
 
 # Copyright
 
