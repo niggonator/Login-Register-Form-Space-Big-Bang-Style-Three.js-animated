@@ -4,12 +4,7 @@ Feel free to use and implement my Big Bang Style Register template to spice up y
 ## External server
 There is also a script u can use to pass data to an external server. 
 To activate, please remove hashtags from "registerscript.php" in line 65/66:
-
-64    // Pass data to external server (optional)
-
-65    //$command = escapeshellcmd("python3 paramiko_script_register.py $user_id $email");
-
-66    //$output = shell_exec($command);
+![remove_hashtags](https://github.com/niggonator/Login-Register-Form-Space-Big-Bang-Style-Three.js-animated/assets/167204297/39e5b4a3-dd3c-4b51-98b5-008358e3c515)
 
 ## Requirements
 You need:
