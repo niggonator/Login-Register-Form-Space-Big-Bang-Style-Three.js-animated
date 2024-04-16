@@ -22,6 +22,7 @@ For external server functionality:
 
 ![Login-Register-Form-Space-Big-Bang-Style-Three js-animated](https://github.com/niggonator/Login-Register-Form-Space-Big-Bang-Style-Three.js-animated/assets/167204297/22e821d6-a982-444a-8563-0fef8a3cf889)
 
+# Copyright
 
 Copyright [2024] [Nicolas Richter]
 
